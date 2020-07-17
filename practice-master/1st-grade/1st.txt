@@ -1,0 +1,4 @@
+\documentclass{jarticle}
+\begin{document}
+1回生向けのディレクトリです。参加者は、自分のディレクトリを作成して、その中にtxt形式で自己紹介を書いてコミットしてください。
+\end{document}
